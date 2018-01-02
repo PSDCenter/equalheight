@@ -1,0 +1,16 @@
+{
+  "name": "equalheight.js",
+  "description": "A row wise equal-height for box.",
+  "version": "1.0.0",
+  "author": "PSDCenter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PSDCenter/equalheight.git"
+  },
+  "devDependencies": {
+   },
+  "main": "./eualheight.js",
+  "scripts": {
+    "test": "equal height"
+  }
+}
