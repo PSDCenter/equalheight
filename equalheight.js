@@ -1,4 +1,4 @@
-var equalHeight = equalheight(container) {
+export function equalHeight(container) {
   var currentTallest = 0, currentRowStart = 0, rowDivs = new Array(), $el, topPosition = 0;
   $(container).each(function() {
     $el = $(this);
