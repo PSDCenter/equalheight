@@ -7,3 +7,6 @@
 # Import the module in script.
 
 -- import {equalHeight} from 'equalHeight/equalheight';
+
+# Usage 
+  equalHeight(container);
